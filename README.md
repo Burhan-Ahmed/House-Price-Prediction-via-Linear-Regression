@@ -1,2 +1,2 @@
 # House-Price-Prediction-Model
-Its a Prediction Model using Linear regresssion that predicts the price of house using square footage and number of bedrooms and bathrooms in the house
+I have used a supervised learning algorithm to build this Model using Linear regression that predicts the price of the house using square footage and the number of bedrooms and bathrooms in the house.
